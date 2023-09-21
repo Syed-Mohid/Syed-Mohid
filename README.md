@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-mohid&label=Profile%20views&color=0e75b6&style=flat" alt="syed-mohid" /> </p>
 
 
-- 🔭 I’m currently working on **B2B business Mobile Web App**
+- 🔭 I’m currently working on **my first three.js web application**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
